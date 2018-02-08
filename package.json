@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest src --coverage",
-    "build": "babel src --out-dir build --source-maps",
-    "start": "babel src --out-dir build --source-maps && node build/index.js",
+    "build": "babel src --out-dir build --source-maps --ignore '**/*.test.js'",
+    "start": "babel src --out-dir build --source-maps --ignore '**/*.test.js' && node build/index.js",
     "prepublish": "npm run build"
   },
   "author": "",
