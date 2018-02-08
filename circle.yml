@@ -4,6 +4,3 @@ machine:
 test:
   override:
     - npm test
-  post:
-    - npm install -g codeclimate-test-reporter
-    - codeclimate-test-reporter < coverage/lcov.info
