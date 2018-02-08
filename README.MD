@@ -13,6 +13,26 @@ Each framework will be sorting through the same list of items and returning the 
 keep the scientific controls in a good place.
 
 
+# Setup
+
+```
+git clone https://github.com/markhatchell/node-rest-api-profiler.git
+cd node-rest-api-profiler
+npm install
+
+```
+
+You will then need to specify the sites and urls you would like to profile.
+
+There is a site.example.js file that demonstrates the object structure for the list of sites and urls to profile.
+
+Make a copy of the sites.example.js file renaming it to sites.js.
+
+Add your list of sites and urls.
+
+You are now ready to run the profiler.
+
+
 
 # Running
 
