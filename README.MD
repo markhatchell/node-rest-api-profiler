@@ -1,6 +1,7 @@
 # Node Rest API Speed Profiler
 
 [![Test Coverage](https://api.codeclimate.com/v1/badges/0c4845d46e02823dbea3/test_coverage)](https://codeclimate.com/github/markhatchell/node-rest-api-profiler/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/0c4845d46e02823dbea3/maintainability)](https://codeclimate.com/github/markhatchell/node-rest-api-profiler/maintainability)
 [![CircleCI](https://circleci.com/gh/markhatchell/node-rest-api-profiler.svg?style=svg)](https://circleci.com/gh/markhatchell/node-rest-api-profiler)
 
 This is a small node app that profiles a list of sites and corresponding urls for each site gathering the time it takes
