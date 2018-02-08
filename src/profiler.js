@@ -7,7 +7,7 @@ class Profiler {
         this.times = {
             start: undefined,
             end: undefined,
-            total: 0
+            total: undefined
         };
         this.requestStatus = undefined;
     }
