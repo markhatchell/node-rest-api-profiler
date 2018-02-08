@@ -1,22 +1,18 @@
-export default [
+exports.default = [
     {
         serverName: 'localhost - PHP',
         tests: [
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
         ]
     },
@@ -24,20 +20,16 @@ export default [
         serverName: 'localhost - PYTHON',
         tests: [
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
         ]
     },
@@ -45,20 +37,16 @@ export default [
         serverName: 'localhost - RUBY',
         tests: [
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
             {
-                url: 'http://127.0.0.1:8080',
-                response: undefined
+                url: 'http://127.0.0.1:8080'
             },
         ]
     }
